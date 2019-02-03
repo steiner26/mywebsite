@@ -199,3 +199,8 @@ bt {
 	font-size: 40px;
 	color: #1abc9c;
 }
+
+a img {
+	margin: auto;
+	width: 400px
+}
